@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paras !
+- 👋 Hi there, I’m Paras !
 - 👀 I’m interested in Robotics, Machine Learning and AI.
 - 🌱 I’m a Masters in Robotics Student at University Of Maryland.
 - 💞️ I’m looking to collaborate on anything that cover my interests!
