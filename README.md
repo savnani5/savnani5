@@ -3,7 +3,7 @@
 - 👀 I’m interested in Robotics, Machine Learning and AI.
 - 🌱 I’m a Masters in Robotics Student at University Of Maryland.
 - 👯 I’m looking to collaborate on anything that cover my interests!
-- 📫 You can reach me at [savnani5@gmail.com](savnani4@gmail.com)
+- 📫 You can reach me at [savnani5@gmail.com](savnani5@gmail.com)
 
 
 <a href="https://www.instagram.com/tadbitcrazy_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/paras-savnani-532966182/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/psavnani?lang=en"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.researchgate.net/scientific-contributions/Paras-S-Savnani-2173763454"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"></a> 
