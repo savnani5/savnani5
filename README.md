@@ -1,7 +1,7 @@
 ### 👋 Hi there, I’m Paras !
 
 - 👀 I’m interested in Computer Vision, Machine Learning, AI and Robotics.
-- 🌱 I am a Machine Learning Research Engineer at Samsung and I did my Masters in Robotics from University Of Maryland.
+- 🌱 I am a Machine Learning Research Engineer at Samsung Research America.
 - 👯 I’m looking to collaborate on anything that cover my interests!
 - 📫 You can reach me at [savnani5@gmail.com](savnani5@gmail.com)
 
