@@ -1,7 +1,6 @@
 ### 👋 Hi there, I’m Paras !
 
 - 👀 I’m interested in Computer Vision, Natural Language Processing, ML/AI and Robotics.
-- 🌱 Also I work as an AI Researcher at Samsung Research America.
 - 👯 I’m looking to collaborate on anything that cover my interests!
 - 📫 You can reach me at [savnani5@gmail.com](savnani5@gmail.com)
 
