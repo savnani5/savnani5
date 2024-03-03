@@ -15,8 +15,6 @@
 ![Paras's github stats](https://github-readme-stats.vercel.app/api?username=savnani5&show_icons=true&theme=radical)
 
 
-![Programming](programming.gif)
-
 ![](https://komarev.com/ghpvc/?username=savnani5&color=blue)
 <!---
 savnani5/savnani5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
